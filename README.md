@@ -6,3 +6,16 @@
 <a href="https://www.codewars.com/users/SamoilovIS"><img src="https://www.codewars.com/users/SamoilovIS/badges/large.svg" alt=""></a>
   </p>
  </body>
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Изображения-ссылки</title>
+ </head>
+ <body>
+  <p>
+   <a href="page/help.html"><img src="image/panda.png" alt="Панда"></a>
+   <a href="page/help.html"><img src="image/fox.png" alt="Лиса"></a>
+  </p>
+ </body>
+</html>
