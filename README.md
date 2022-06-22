@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.researchgate.net/profile/I-Samoilov" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">PhD in Physics, QA automation engineer </h3>
-<h4 align="center">https://www.codewars.com/users/ZmeeeD007/badges/large </h4>
+<img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://www.codewars.com/users/ZmeeeD007/badges/large)" height="32"/></h1>
 
