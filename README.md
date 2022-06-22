@@ -13,7 +13,7 @@
  </head>
  <body>
   <p>
-   <a href="https://www.codewars.com/users/SamoilovIS"><img src="https://www.codewars.com/users/SamoilovIS/badges/large.svg" alt="Панда"></a>
+   <a href="https://www.codewars.com/users/SamoilovIS"><img src="https://www.codewars.com/users/SamoilovIS/badges/large" alt="Панда"></a>
   </p>
  </body>
 </html>
