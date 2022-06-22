@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.researchgate.net/profile/I-Samoilov" target="_blank">Ilya</a> 
-<img src="https://media3.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e477w0w96tnal12cdc3b5hhos70n8kx0epvhipi4dp8&rid=giphy.gif&ct=g" height="40"/></h1>
+<img src="https://media1.giphy.com/media/xT0Cyhi8GCSU91PvtC/giphy.gif?cid=ecf05e47a9uv864h0rb3jc6fu37dnx74utf458k6r4gokoxm&rid=giphy.gif&ct=g" height="45"/></h1>
 <h3 align="center">PhD in Physics, QA automation engineer </h3>
 <!DOCTYPE html>
 <html>
