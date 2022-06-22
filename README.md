@@ -10,7 +10,6 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Изображения-ссылки</title>
  </head>
  <body>
   <p>
