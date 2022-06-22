@@ -7,8 +7,8 @@
   <meta charset="utf-8">
  </head>
  <body>
-  <p>
-   <a align="center" href="https://www.codewars.com/users/SamoilovIS"><img src="https://www.codewars.com/users/SamoilovIS/badges/large" alt="Панда"></a>
+  <p align="center">
+   <a href="https://www.codewars.com/users/SamoilovIS"><img src="https://www.codewars.com/users/SamoilovIS/badges/large" alt="Панда"></a>
   </p>
  </body>
 </html>
