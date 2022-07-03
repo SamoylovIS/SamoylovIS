@@ -7,7 +7,7 @@
  </head>
  <body>
   <p align="center">
-   <img src="https://media1.giphy.com/media/xT0Cyhi8GCSU91PvtC/giphy.gif?cid=ecf05e47a9uv864h0rb3jc6fu37dnx74utf458k6r4gokoxm&rid=giphy.gif&ct=g" height="130"/></p>
+   <img src="https://c.tenor.com/m_Vi-Zb4BnMAAAAC/cat-military-strategy.gif" height="130"/></p>
    <h2 align="center">PhD in Physics, QA automation engineer </h2>
    <p align="center">
    <a href="https://www.codewars.com/users/SamoilovIS"><img src="https://www.codewars.com/users/SamoilovIS/badges/large" alt="Панда"></a></p>
